@@ -13,8 +13,8 @@ Knowledge graph files:
 * Muhammad "Tuan" Amith, PhD
 * Yang Gong, MD, PhD
 * Anirudh Babu
-* Brooks Cash
-* Barani Mayilvaganan
+* Brooks Cash, MD
+* Barani Mayilvaganan, MD
 
 ## License
 
