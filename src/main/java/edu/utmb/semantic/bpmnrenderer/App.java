@@ -6,7 +6,7 @@ import edu.utmb.semantic.bpmnrenderer.process.DataCurator;
 public class App 
 
 {
-    private ConfigurationController configuration;
+    protected ConfigurationController configuration;
     
     public App(){
         configuration = new ConfigurationController();

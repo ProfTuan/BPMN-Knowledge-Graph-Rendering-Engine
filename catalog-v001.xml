@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<catalog prefer="public" xmlns="urn:oasis:names:tc:entity:xmlns:xml:catalog">
+    <group id="Folder Repository, directory=, recursive=true, Auto-Update=true, version=2" prefer="public" xml:base="">
+        <uri id="Automatically generated entry, Timestamp=1732164184592" name="duplicate:http://BPMNbasedOntology" uri="MiraLAXGatorade_KG.owl"/>
+        <uri id="Automatically generated entry, Timestamp=1732164184592" name="duplicate:http://BPMNbasedOntology" uri="Plenvu_KG.owl"/>
+        <uri id="Automatically generated entry, Timestamp=1732164184592" name="duplicate:http://BPMNbasedOntology" uri="Golytely_KG.owl"/>
+        <uri id="Automatically generated entry, Timestamp=1732164184592" name="duplicate:http://BPMNbasedOntology" uri="Sutab_KG.owl"/>
+        <uri id="Automatically generated entry, Timestamp=1732164184592" name="shadowed:http://BPMNbasedOntology" uri="examples/Aerospace%20Dentistry%20Procedures/ADR_KG.owl"/>
+        <uri id="Automatically generated entry, Timestamp=1732164184592" name="shadowed:http://BPMNbasedOntology" uri="examples/Aerospace%20Dentistry%20Procedures/ADE_KG.owl"/>
+        <uri id="Automatically generated entry, Timestamp=1732164184592" name="shadowed:http://BPMNbasedOntology" uri="examples/Aerospace%20Dentistry%20Procedures/AMDT_KG.owl"/>
+        <uri id="Automatically generated entry, Timestamp=1732164184592" name="shadowed:http://BPMNbasedOntology" uri="examples/Aerospace%20Dentistry%20Procedures/ADA_KG.owl"/>
+    </group>
+</catalog>

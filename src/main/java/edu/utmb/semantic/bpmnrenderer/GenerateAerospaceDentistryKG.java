@@ -12,11 +12,11 @@ import edu.utmb.semantic.bpmnrenderer.process.DataCurator;
  */
 public class GenerateAerospaceDentistryKG extends App{
     
-    private ConfigurationController configuration;
+    //private ConfigurationController configuration;
     
     public GenerateAerospaceDentistryKG(){
-        configuration = new ConfigurationController();
-        configuration.initConfiguration();
+        super();
+        
     }
     
     public void generateExtractionProcessKG(){
