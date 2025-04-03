@@ -2,3 +2,4 @@
 .DS_Store
 *.xlsx
 /target/
+/examples/Colonoscopy Preparation Process/evaluation JFact/jfactreasoncheck/target
